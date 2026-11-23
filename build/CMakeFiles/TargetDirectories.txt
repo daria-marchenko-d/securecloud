@@ -1,0 +1,2 @@
+C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/build/CMakeFiles/edit_cache.dir
+C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/build/CMakeFiles/rebuild_cache.dir

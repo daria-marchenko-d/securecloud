@@ -1,0 +1,1 @@
+ "C:/Program Files/msys64/mingw64/lib/libgtest_main.dll.a" libauth_core.a "C:/Program Files/msys64/mingw64/lib/libgtest.dll.a" "C:/Program Files/msys64/mingw64/lib/libsodium.dll.a" "C:/Program Files/msys64/mingw64/lib/libpqxx.dll.a" -lwsock32 -lws2_32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
