@@ -1,0 +1,5 @@
+C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/build/CMakeFiles/auth_core.dir
+C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/build/CMakeFiles/auth-service.dir
+C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/build/CMakeFiles/auth-tests.dir
+C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/build/CMakeFiles/edit_cache.dir
+C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/build/CMakeFiles/rebuild_cache.dir
