@@ -391,6 +391,14 @@ CMakeFiles/auth-service.dir/main.cpp.obj: \
  C:/Program\ Files/msys64/mingw64/include/pqxx/transactor.hxx \
  C:/Program\ Files/msys64/mingw64/include/pqxx/internal/header-post.hxx \
  C:/Program\ Files/msys64/mingw64/include/c++/15.2.0/iostream \
- C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/src/PasswordHasher.hpp \
+ C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/src/JwtManager.hpp \
+ C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/src/Role.hpp \
  C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/src/User.hpp \
- C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/src/Role.hpp
+ C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/src/LoginLimiter.hpp \
+ C:/Program\ Files/msys64/mingw64/include/c++/15.2.0/mutex \
+ C:/Program\ Files/msys64/mingw64/include/c++/15.2.0/bits/std_mutex.h \
+ C:/Program\ Files/msys64/mingw64/include/c++/15.2.0/bits/unique_lock.h \
+ C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/src/PasswordHasher.hpp \
+ C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/src/PermissionService.hpp \
+ C:\Users\daria\Documents\3-annee\secure_cloud\securecloud\auth-service\tests/FakeUserRepository.hpp \
+ C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/src/IUserRepository.hpp
