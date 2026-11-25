@@ -1,0 +1,513 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Client/securecloud_client.exe"
+		},
+		{
+			"path" : "Client/securecloud_client.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"__find_dependency_common",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies"
+		],
+		"files" : 
+		[
+			"Client/CMakeLists.txt",
+			"C:/msys64/mingw64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake",
+			"C:/msys64/mingw64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+			"C:/msys64/mingw64/lib/cmake/Qt6/Qt6Config.cmake",
+			"C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"C:/msys64/mingw64/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+			"C:/msys64/mingw64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"C:/msys64/mingw64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake",
+			"C:/msys64/mingw64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"C:/msys64/mingw64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake",
+			"C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"file" : 3,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 237,
+				"parent" : 4
+			},
+			{
+				"file" : 2,
+				"parent" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 52,
+				"parent" : 6
+			},
+			{
+				"file" : 1,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 8
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 40,
+				"parent" : 6
+			},
+			{
+				"file" : 8,
+				"parent" : 10
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 50,
+				"parent" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 7,
+				"line" : 142,
+				"parent" : 12
+			},
+			{
+				"command" : 5,
+				"file" : 6,
+				"line" : 125,
+				"parent" : 13
+			},
+			{
+				"command" : 4,
+				"file" : 6,
+				"line" : 93,
+				"parent" : 14
+			},
+			{
+				"file" : 5,
+				"parent" : 15
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 52,
+				"parent" : 16
+			},
+			{
+				"file" : 4,
+				"parent" : 17
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 61,
+				"parent" : 18
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 237,
+				"parent" : 4
+			},
+			{
+				"file" : 10,
+				"parent" : 20
+			},
+			{
+				"command" : 3,
+				"file" : 10,
+				"line" : 54,
+				"parent" : 21
+			},
+			{
+				"file" : 9,
+				"parent" : 22
+			},
+			{
+				"command" : 2,
+				"file" : 9,
+				"line" : 61,
+				"parent" : 23
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 237,
+				"parent" : 4
+			},
+			{
+				"file" : 12,
+				"parent" : 25
+			},
+			{
+				"command" : 3,
+				"file" : 12,
+				"line" : 52,
+				"parent" : 26
+			},
+			{
+				"file" : 11,
+				"parent" : 27
+			},
+			{
+				"command" : 2,
+				"file" : 11,
+				"line" : 61,
+				"parent" : 28
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"compileDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Core::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Widgets::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Network::@39d0ae6511a0d9878f7b"
+		}
+	],
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++20"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "MINGW_HAS_SECURE_API=1"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "WINVER=0x0A00"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_WIN32_WINNT=0x0A00"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/Mathieu Auger/Documents/securecloud/build/Client/securecloud_client_autogen/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/msys64/mingw64/include/qt6/QtCore"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/msys64/mingw64/include/qt6"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/msys64/mingw64/share/qt6/mkspecs/win32-g++"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/msys64/mingw64/include/qt6/QtWidgets"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/msys64/mingw64/include/qt6/QtGui"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/msys64/mingw64/include/qt6/QtNetwork"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2,
+					2
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "securecloud_client_autogen_timestamp_deps::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "securecloud_client_autogen::@39d0ae6511a0d9878f7b"
+		}
+	],
+	"id" : "securecloud_client::@39d0ae6511a0d9878f7b",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "C:\\msys64\\mingw64\\lib\\libQt6Widgets.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "C:\\msys64\\mingw64\\lib\\libQt6Network.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "C:\\msys64\\mingw64\\lib\\libQt6Gui.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "-ld3d11",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "-ldxgi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "-ldxguid",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "-ld3d12",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "C:\\msys64\\mingw64\\lib\\libQt6Core.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "-lmpr",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "-luserenv",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "-lws2_32",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"linkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Core::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Widgets::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Network::@39d0ae6511a0d9878f7b"
+		}
+	],
+	"name" : "securecloud_client",
+	"nameOnDisk" : "securecloud_client.exe",
+	"orderDependencies" : 
+	[
+		{
+			"id" : "Qt6::uic::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"id" : "Qt6::moc::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"id" : "securecloud_client_autogen_timestamp_deps::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "securecloud_client_autogen::@39d0ae6511a0d9878f7b"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Client",
+		"source" : "Client"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				2
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Client/securecloud_client_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/src/main.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Client/securecloud_client_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Client/securecloud_client_autogen/timestamp.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "EXECUTABLE"
+}

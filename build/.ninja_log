@@ -1,0 +1,12 @@
+# ninja log v7
+55	152	8120269130392922	gateway/CMakeFiles/securecloud_gateway.dir/src/main.cpp.obj	5812c57dafd1d4a8
+66	162	8120269130489299	services/auth/CMakeFiles/auth_service.dir/src/main.cpp.obj	ede34e6e5142fdba
+154	265	8120269131368699	gateway/securecloud_gateway.exe	ab9c307049c3fbee
+33	279	8120269132047661	Client/securecloud_client_autogen/timestamp	e76e3beffc683e14
+33	279	8120269132047661	Client/securecloud_client_autogen/mocs_compilation.cpp	e76e3beffc683e14
+33	279	8120269132047661	C:/Users/Mathieu Auger/Documents/securecloud/build/Client/securecloud_client_autogen/timestamp	e76e3beffc683e14
+33	279	8120269132047661	C:/Users/Mathieu Auger/Documents/securecloud/build/Client/securecloud_client_autogen/mocs_compilation.cpp	e76e3beffc683e14
+162	292	8120269131444363	services/auth/auth_service.exe	68c2ae6c5c96f920
+281	375	8120269132641543	Client/CMakeFiles/securecloud_client.dir/securecloud_client_autogen/mocs_compilation.cpp.obj	76b289c4e81e733f
+287	376	8120269132690018	Client/CMakeFiles/securecloud_client.dir/src/main.cpp.obj	b7e82297e53c539b
+376	555	8120269133581048	Client/securecloud_client.exe	9b831472f20f07dc
