@@ -1,0 +1,2 @@
+C:\PROGRA~1\msys64\mingw64\bin\ar.exe qc libauth_core.a CMakeFiles/auth_core.dir/src/AuthController.cpp.obj CMakeFiles/auth_core.dir/src/AuthService.cpp.obj CMakeFiles/auth_core.dir/src/JwtManager.cpp.obj CMakeFiles/auth_core.dir/src/LoginLimiter.cpp.obj CMakeFiles/auth_core.dir/src/PasswordHasher.cpp.obj CMakeFiles/auth_core.dir/src/PermissionService.cpp.obj CMakeFiles/auth_core.dir/src/User.cpp.obj
+C:\PROGRA~1\msys64\mingw64\bin\ranlib.exe libauth_core.a
