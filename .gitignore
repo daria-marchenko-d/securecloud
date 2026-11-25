@@ -1,0 +1,66 @@
+# Build
+build/
+out/
+bin/
+lib/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Qt
+*.user
+*.pro.user
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Compiled objects
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+
+# Debug
+*.pdb
+*.ilk
+*.dSYM/
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Database local data
+data/
+postgres-data/
+
+# Docker local overrides
+docker-compose.override.yml
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store
