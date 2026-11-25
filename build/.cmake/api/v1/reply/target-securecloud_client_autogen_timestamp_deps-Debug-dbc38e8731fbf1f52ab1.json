@@ -1,0 +1,59 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Client/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "securecloud_client_autogen_timestamp_deps::@39d0ae6511a0d9878f7b",
+	"isGeneratorProvided" : true,
+	"name" : "securecloud_client_autogen_timestamp_deps",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Core::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::uic::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::moc::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Widgets::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Network::@39d0ae6511a0d9878f7b"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Client",
+		"source" : "Client"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

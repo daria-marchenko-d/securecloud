@@ -1,0 +1,92 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Client/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "securecloud_client_autogen_timestamp_deps::@39d0ae6511a0d9878f7b"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "securecloud_client_autogen::@39d0ae6511a0d9878f7b",
+	"isGeneratorProvided" : true,
+	"name" : "securecloud_client_autogen",
+	"orderDependencies" : 
+	[
+		{
+			"id" : "Qt6::uic::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"id" : "Qt6::moc::@39d0ae6511a0d9878f7b"
+		},
+		{
+			"id" : "securecloud_client_autogen_timestamp_deps::@39d0ae6511a0d9878f7b"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Client",
+		"source" : "Client"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Client/CMakeFiles/securecloud_client_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Client/CMakeFiles/securecloud_client_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Client/securecloud_client_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
