@@ -98,6 +98,8 @@ auth-service.exe: CMakeFiles/auth-service.dir/build.make
 auth-service.exe: libauth_core.a
 auth-service.exe: C:/Program\ Files/msys64/mingw64/lib/libsodium.dll.a
 auth-service.exe: C:/Program\ Files/msys64/mingw64/lib/libpqxx.dll.a
+auth-service.exe: C:/Program\ Files/msys64/mingw64/lib/libssl.dll.a
+auth-service.exe: C:/Program\ Files/msys64/mingw64/lib/libcrypto.dll.a
 auth-service.exe: CMakeFiles/auth-service.dir/linkLibs.rsp
 auth-service.exe: CMakeFiles/auth-service.dir/objects1.rsp
 auth-service.exe: CMakeFiles/auth-service.dir/link.txt

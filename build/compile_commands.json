@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/Mathieu Auger/Documents/securecloud/build/Client",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 @CMakeFiles/securecloud_client.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\securecloud_client.dir\\securecloud_client_autogen\\mocs_compilation.cpp.obj -c \"C:\\Users\\Mathieu Auger\\Documents\\securecloud\\build\\Client\\securecloud_client_autogen\\mocs_compilation.cpp\"",
+  "file": "C:/Users/Mathieu Auger/Documents/securecloud/build/Client/securecloud_client_autogen/mocs_compilation.cpp",
+  "output": "Client/CMakeFiles/securecloud_client.dir/securecloud_client_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mathieu Auger/Documents/securecloud/build/Client",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 @CMakeFiles/securecloud_client.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\securecloud_client.dir\\src\\main.cpp.obj -c \"C:\\Users\\Mathieu Auger\\Documents\\securecloud\\Client\\src\\main.cpp\"",
+  "file": "C:/Users/Mathieu Auger/Documents/securecloud/Client/src/main.cpp",
+  "output": "Client/CMakeFiles/securecloud_client.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mathieu Auger/Documents/securecloud/build/gateway",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/securecloud_gateway.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\securecloud_gateway.dir\\src\\main.cpp.obj -c \"C:\\Users\\Mathieu Auger\\Documents\\securecloud\\gateway\\src\\main.cpp\"",
+  "file": "C:/Users/Mathieu Auger/Documents/securecloud/gateway/src/main.cpp",
+  "output": "gateway/CMakeFiles/securecloud_gateway.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mathieu Auger/Documents/securecloud/build/services/auth",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DPQXX_SHARED @CMakeFiles/auth_service.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\auth_service.dir\\src\\main.cpp.obj -c \"C:\\Users\\Mathieu Auger\\Documents\\securecloud\\services\\auth\\src\\main.cpp\"",
+  "file": "C:/Users/Mathieu Auger/Documents/securecloud/services/auth/src/main.cpp",
+  "output": "services/auth/CMakeFiles/auth_service.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mathieu Auger/Documents/securecloud/build/services/auth",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DPQXX_SHARED @CMakeFiles/auth_service.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\auth_service.dir\\src\\config\\EnvLoader.cpp.obj -c \"C:\\Users\\Mathieu Auger\\Documents\\securecloud\\services\\auth\\src\\config\\EnvLoader.cpp\"",
+  "file": "C:/Users/Mathieu Auger/Documents/securecloud/services/auth/src/config/EnvLoader.cpp",
+  "output": "services/auth/CMakeFiles/auth_service.dir/src/config/EnvLoader.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mathieu Auger/Documents/securecloud/build/services/auth",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DPQXX_SHARED @CMakeFiles/auth_service.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\auth_service.dir\\src\\database\\Database.cpp.obj -c \"C:\\Users\\Mathieu Auger\\Documents\\securecloud\\services\\auth\\src\\database\\Database.cpp\"",
+  "file": "C:/Users/Mathieu Auger/Documents/securecloud/services/auth/src/database/Database.cpp",
+  "output": "services/auth/CMakeFiles/auth_service.dir/src/database/Database.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mathieu Auger/Documents/securecloud/build/services/auth",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DPQXX_SHARED @CMakeFiles/auth_service.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\auth_service.dir\\src\\security\\PasswordHasher.cpp.obj -c \"C:\\Users\\Mathieu Auger\\Documents\\securecloud\\services\\auth\\src\\security\\PasswordHasher.cpp\"",
+  "file": "C:/Users/Mathieu Auger/Documents/securecloud/services/auth/src/security/PasswordHasher.cpp",
+  "output": "services/auth/CMakeFiles/auth_service.dir/src/security/PasswordHasher.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mathieu Auger/Documents/securecloud/build/services/auth",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DPQXX_SHARED @CMakeFiles/auth_service.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\auth_service.dir\\src\\repositories\\UserRepository.cpp.obj -c \"C:\\Users\\Mathieu Auger\\Documents\\securecloud\\services\\auth\\src\\repositories\\UserRepository.cpp\"",
+  "file": "C:/Users/Mathieu Auger/Documents/securecloud/services/auth/src/repositories/UserRepository.cpp",
+  "output": "services/auth/CMakeFiles/auth_service.dir/src/repositories/UserRepository.cpp.obj"
+}
+]

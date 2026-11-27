@@ -231,6 +231,15 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 //The directory containing a CMake configuration file for GTest.
 GTest_DIR:PATH=C:/Program Files/msys64/mingw64/lib/cmake/GTest
 
+//Path to a file.
+JWT_CPP_INCLUDE_DIR:PATH=C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/third_party/jwt-cpp/include
+
+//Path to a library.
+LIB_EAY:FILEPATH=C:/Program Files/msys64/mingw64/lib/libcrypto.dll.a
+
+//Path to a file.
+OPENSSL_INCLUDE_DIR:PATH=C:/Program Files/msys64/mingw64/include
+
 //The Set the PostgreSQL_INCLUDE_DIR cmake cache entry to the top-level
 // directory containing the PostgreSQL include directories. E.g
 // /usr/local/include/PostgreSQL/8.4 or C:/Program Files/PostgreSQL/8.4/include
@@ -254,6 +263,9 @@ SODIUM_INCLUDE_DIR:PATH=C:/Program Files/msys64/mingw64/include
 
 //Path to a library.
 SODIUM_LIBRARY:FILEPATH=C:/Program Files/msys64/mingw64/lib/libsodium.dll.a
+
+//Path to a library.
+SSL_EAY:FILEPATH=C:/Program Files/msys64/mingw64/lib/libssl.dll.a
 
 //Value Computed by CMake
 auth-service_BINARY_DIR:STATIC=C:/Users/daria/Documents/3-annee/secure_cloud/securecloud/auth-service/build
@@ -416,6 +428,12 @@ CMAKE_TAPI-ADVANCED:INTERNAL=1
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //Details about finding GTest
 FIND_PACKAGE_MESSAGE_DETAILS_GTest:INTERNAL=[C:/Program Files/msys64/mingw64/lib/cmake/GTest/GTestConfig.cmake][ ][v1.17.0()]
+//Details about finding OpenSSL
+FIND_PACKAGE_MESSAGE_DETAILS_OpenSSL:INTERNAL=[C:/Program Files/msys64/mingw64/lib/libcrypto.dll.a][C:/Program Files/msys64/mingw64/include][ ][v3.6.0()]
+//ADVANCED property for variable: LIB_EAY
+LIB_EAY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OPENSSL_INCLUDE_DIR
+OPENSSL_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: PostgreSQL_INCLUDE_DIR
 PostgreSQL_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: PostgreSQL_LIBRARY_DEBUG
@@ -424,4 +442,6 @@ PostgreSQL_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 PostgreSQL_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: PostgreSQL_TYPE_INCLUDE_DIR
 PostgreSQL_TYPE_INCLUDE_DIR-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: SSL_EAY
+SSL_EAY-ADVANCED:INTERNAL=1
 

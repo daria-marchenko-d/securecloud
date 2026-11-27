@@ -100,6 +100,8 @@ auth-tests.exe: libauth_core.a
 auth-tests.exe: C:/Program\ Files/msys64/mingw64/lib/libgtest.dll.a
 auth-tests.exe: C:/Program\ Files/msys64/mingw64/lib/libsodium.dll.a
 auth-tests.exe: C:/Program\ Files/msys64/mingw64/lib/libpqxx.dll.a
+auth-tests.exe: C:/Program\ Files/msys64/mingw64/lib/libssl.dll.a
+auth-tests.exe: C:/Program\ Files/msys64/mingw64/lib/libcrypto.dll.a
 auth-tests.exe: CMakeFiles/auth-tests.dir/linkLibs.rsp
 auth-tests.exe: CMakeFiles/auth-tests.dir/objects1.rsp
 auth-tests.exe: CMakeFiles/auth-tests.dir/link.txt
